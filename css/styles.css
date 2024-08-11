@@ -1,0 +1,22 @@
+/*colores
+primer color :#6805EB
+segundo color : #057FEB
+tercer color : #f5e108
+
+*/
+
+form {
+    background-color: #6805EB;
+    font-size: 17px;
+    font-style: italic;
+    color: aqua;
+}
+
+.rd{color: red;}
+
+.p1{ font-size: 24px;font-family: 'Franklin Gothic Medium';
+    background-color: blanchedalmond;
+}
+
+
+
