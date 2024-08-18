@@ -5,6 +5,23 @@ tercer color : #f5e108
 
 */
 
+.menu{
+    display: flex;
+    background-color: #d0de75;
+   
+}
+
+
+
+body{
+    background-image: url(/img/auto1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 15px 15px ;
+}
+
+
 form {
     background-color: #6805EB;
     font-size: 17px;
@@ -16,7 +33,27 @@ form {
 
 .p1{ font-size: 24px;font-family: 'Franklin Gothic Medium';
     background-color: blanchedalmond;
+    padding: 15px 15px ;
 }
 
 
+
+li{
+    padding: 10px 40px;
+}
+
+.fm{
+    padding: 0% 100px;
+}
+
+
+
+footer {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    padding: 10px 20px; 
+    background-color: #d0de75; 
+    color: white; 
+}
 
