@@ -1,3 +1,5 @@
+
+
 /*colores
 primer color :#6805EB
 segundo color : #057FEB
@@ -19,6 +21,7 @@ body{
     background-size: cover;
     background-position: center;
     padding: 15px 15px ;
+    display: grid;
 }
 
 
@@ -56,4 +59,5 @@ footer {
     background-color: #d0de75; 
     color: white; 
 }
+
 
